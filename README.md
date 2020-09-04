@@ -1,4 +1,4 @@
-# tf_chatbot
+# Tensorflow Chatbot
 A chatbot written in python using tensorflow. Extend model.py to implement your own pipeline.
 
 Inside your virtual environment
